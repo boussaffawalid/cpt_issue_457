@@ -1,7 +1,7 @@
 # cpt_issue_457
 
 $ export CONAN_OPTIONS="Foobar:with_bar=True,Foobar:with_bar=False"
-# python3 build.py
+$ python3 build.py
 
 
 ## Actual Output
